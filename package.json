@@ -1,0 +1,12 @@
+{
+  "name": "discord-devbadge-getter",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "Get the shiny new Active Developer badge on Discord!",
+  "main": "index.js",
+  "author": "Randomblock1",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
